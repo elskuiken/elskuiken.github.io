@@ -1,3 +1,3 @@
-.ipynb_checkpoints
-.quarto
-_site
+/.ipynb_checkpoints/
+/.quarto/
+/_site/

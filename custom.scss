@@ -1,9 +1,8 @@
 /*-- scss:defaults --*/
+$font-size-base: 1.1rem !default;
+$navbar-brand-font-size: $font-size-base * 1 !default;
 
 /*-- scss:rules --*/
-p {
-    font-weight:  100;
-}
 
 a, u {
   text-decoration: none;

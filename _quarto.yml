@@ -2,16 +2,10 @@ project:
   type: website
 
 website:
-  title: "Emma Laura"
+  title: "Emma Laura Schouten"
   search: false
   navbar:
-    #title: false
-    background: "#d7e4f7"
-    left:
-      - text: "Schrijven" 
-        file: index.qmd
-      - text: "Redactie"
-        file: redactie.qmd
+    background: "#e8e8e8"
   page-footer: 
       left:
           - "Copyright 2023, E.L. Schouten"
@@ -22,11 +16,10 @@ format:
     theme: 
         - cerulian
         - custom.scss
-    mainfont: "Abyssinica SIL" 
-    #"Arial Narrow"
+    mainfont: "Arial"
     anchor-sections: false
     link-external-newwindow: true
-    backgroundcolor: "#f0f4fa"
+    backgroundcolor: "#f7f7f7"
 
 
 

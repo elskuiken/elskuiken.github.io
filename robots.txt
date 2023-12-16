@@ -1,1 +1,1 @@
-Sitemap: https://github.com/paulmaxus/website-els/sitemap.xml
+Sitemap: https://github.com/elskuiken/elskuiken.github.io/sitemap.xml

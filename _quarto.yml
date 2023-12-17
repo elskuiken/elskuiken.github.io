@@ -21,5 +21,8 @@ format:
     link-external-newwindow: true
     backgroundcolor: "#f7f7f7"
 
+resources:
+  - CNAME
+
 
 

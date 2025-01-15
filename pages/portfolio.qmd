@@ -37,7 +37,7 @@ toc-title: ""
 ### Optredens en projecten
 - **Kunstweek Warmond** Poëzie in de Oranjerie
 - **Dichters van de Prinsentuin**
-- **Marineterrein Amsterdam** kunstproject De Heg 
+- **Marineterrein Amsterdam** kunstproject ParkxPark - De Heg 
 - **The Writer's Guide to the Galaxy** presentatie *The Galaxy Gazette* #2 
 - **Notes of a dirty old man** 
 - **5 mei Vrijheidsmaaltijd** Deventer
@@ -47,6 +47,6 @@ toc-title: ""
 - **Seizoenszine** [Poëzie]: *Er zijn zij die zeggen de herfst begint* (2022)
 - **Tijdschrift Ei** [Poëzie]: *Sisyfus* (2022) 
 - Bloemlezing **Met het oog op Gorssel** [Poëzie]: *Discours*, *Fantoompijn* (2022)
-- **Vuurland** [Recensie]: gastbijdrage boekrecensie *Wormmaan*
+- **Vuurland** [Recensie]: gastbijdrage boekrecensie [*Wormmaan*](https://www.vuurland.nu/post/1782)
 - **Seizoenszine** [Poëzie]: *Fotosynthese* (2022)
-- **Hard//hoofd** [Essay]: *De schrijver mag schrijven, de lezer mag lezen*, *Lang leve de slush pile*, *Hadden we dat altijd maar geweten*
+- **Hard//hoofd** [Essay]: [*De schrijver mag schrijven, de lezer mag lezen*](https://hardhoofd.com/de-schrijver-mag-schrijven-de-lezer-mag-lezen/), [*Lang leve de slush pile*](https://hardhoofd.com/lang-leve-de-slush-pile/), [*Hadden we dat altijd maar geweten*](https://hardhoofd.com/hadden-we-dat-altijd-maar-geweten/) (2022)

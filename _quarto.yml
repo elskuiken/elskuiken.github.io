@@ -14,7 +14,7 @@ website:
       background: rgb(240, 238, 238)
       logo-alt: "Emma Laura Schouten"
       left:
-        - href: pages/index.qmd
+        - href: index.qmd
           text: Over
         - href: pages/portfolio.qmd
           text: Portfolio

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://emmaschouten.nl/index.html</loc>
-    <lastmod>2024-12-18T13:19:27.032Z</lastmod>
+    <loc>https://emmaschouten.nl/pages/contact.html</loc>
+    <lastmod>2025-01-15T12:23:48.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emmaschouten.nl/pages/portfolio.html</loc>
+    <lastmod>2025-01-15T12:23:48.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emmaschouten.nl/pages/index.html</loc>
+    <lastmod>2025-01-15T12:23:48.879Z</lastmod>
   </url>
 </urlset>

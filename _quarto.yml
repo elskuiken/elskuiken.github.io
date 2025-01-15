@@ -4,19 +4,30 @@ project:
 website:
   title: "Emma Laura Schouten"
   search: false
-  navbar:
-    background: "#e8e8e8"
   page-footer: 
       left:
-          - "Copyright 2023, E.L. Schouten"
+          - "Copyright 2025, E.L. Schouten"
       border: true
+  navbar:
+      title: false
+      logo: img/logo.png
+      background: rgb(240, 238, 238)
+      logo-alt: "Emma Laura Schouten"
+      left:
+        - href: pages/index.qmd
+          text: Over
+        - href: pages/portfolio.qmd
+          text: Portfolio
+        - href: pages/contact.qmd
+          text: Contact
 
 format:
   html:
     theme: 
         - cerulian
         - custom.scss
-    mainfont: "Arial"
+    mainfont: Nunito Sans
+    #mainfont: "Arial"
     anchor-sections: false
     link-external-newwindow: true
     backgroundcolor: "#f7f7f7"

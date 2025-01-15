@@ -5,9 +5,7 @@ toc-depth: 1
 toc-title: ""
 ---
 
-<img src="img/me.jpg" alt="emma laura schouten" width="80%" />
-
-<small>emma.laura<!-- comment -->.schouten@gmai<!-- comment -->l.com</small>
+<img src="../img/me.jpg" alt="emma laura schouten" width="80%" />
 
 [<kbd><i class="bi bi-instagram"></i> <small>instagram</small></kbd>](https://www.instagram.com/emmalauras/)
 

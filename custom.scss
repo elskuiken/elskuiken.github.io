@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,700;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,700&family=Nunito:wght@300&display=swap');
+
 /*-- scss:defaults --*/
 $font-size-base: 1.05rem !default;
 $navbar-brand-font-size: $font-size-base * 1 !default;
@@ -8,9 +10,27 @@ a, u {
   text-decoration: none;
 }
 
+/*-- navbar --*/
 
-/*
-img {
-  border: 2px solid black;
+.navbar-logo {
+  max-height: 120px;
+  width: auto;
+  align-items: baseline;
 }
-*/
+
+@media (max-width: 991px) {
+  .navbar-logo {
+    max-height: 100px;
+    width: auto;
+    align-items: baseline;
+  }
+  }
+
+/* --  --*/
+@media (max-width: 460px) {
+  .navbar-logo {
+    max-height: 50px;
+    width: auto;
+    align-items: baseline;
+  }
+  }

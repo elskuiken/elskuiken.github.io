@@ -6,3 +6,5 @@ toc-title: ""
 ---
 
 <small>emma.laura<!-- comment -->.schouten@gmai<!-- comment -->l.com</small>
+
+[<kbd><i class="bi bi-instagram"></i> <small>instagram</small></kbd>](https://www.instagram.com/emmalauras/)

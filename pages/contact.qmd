@@ -11,5 +11,5 @@ toc-title: ""
 
 <small>Emma Laura Schouten is aangesloten bij de [Schrijverscentrale](https://deschrijverscentrale.nl/auteurs/3912550)<small>
 
-<img src="../img/schrijverscentrale.png" alt="schrijverscentrale" width="5%" />
+<img src="../img/schrijverscentrale.png" alt="schrijverscentrale" width="20%" />
 

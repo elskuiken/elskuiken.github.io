@@ -18,6 +18,8 @@ website:
           text: Over
         - href: pages/portfolio.qmd
           text: Portfolio
+        - href: pages/pers.qmd
+          text: Pers
         - href: pages/contact.qmd
           text: Contact
 

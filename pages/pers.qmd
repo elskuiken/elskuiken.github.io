@@ -1,4 +1,11 @@
-## Pers en optredens
+---
+title: ""
+toc: true
+toc-depth: 1
+toc-title: ""
+---
+
+# Pers en optredens
 
 *"Schouten slaagt er in deze grillige, zoekende roman, vol filosofische overpeinzingen, wonderwel in om het schemergebied op te roepen waarin iemand leeft die chronisch pijn heeft"* - **de Volkskrant**
 

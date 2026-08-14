@@ -9,7 +9,7 @@ toc-title: ""
 
 <small>emma.laura<!-- comment -->.schouten@gmai<!-- comment -->l.com</small>
 
-<small>Emma Laura Schouten is aangesloten bij de [Schrijverscentrale](https://deschrijverscentrale.nl/auteurs/emma-laura-schouten)<small>
+<small>Emma Laura Schouten is aangesloten bij de [Schrijverscentrale](https://deschrijverscentrale.nl/auteurs/emma-laura-schouten)<small> en [de Klimaatdichters](https://www.klimaatdichters.org/)
 
 <img src="../img/schrijverscentrale.png" alt="schrijverscentrale" width="20%" />
 
